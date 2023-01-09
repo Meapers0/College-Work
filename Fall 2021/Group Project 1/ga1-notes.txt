@@ -1,0 +1,78 @@
+Group Members: Chase Condron, Karsyn Hutchinson, Ivory Scherphorn
+
+Contributions:
+
+    Chase Condron:
+
+    Karsyn Hutchinson:
+
+    Ivory Scherphorn:
+
+Problem 1:
+
+	Chase Condron:
+    a.) How do you think C++ is different from C?
+        C++ is different from C in the way that C++ adds classes and object-oriented programming. As well as having better security 
+        over C in how you can hide variables that were once visible in C.
+
+    b.) Where do you think C++ is widely used?
+
+        C++ is mainly used in operating systems or software that is built to be fast and efficient. It also has popularity in
+        gaming software and databases.
+
+    c.) What is currently the latest stable release of C++, and what is the latest preview release of C++? What is the next release of C++ expected to be?
+
+        The current stable release of C++ is C++20, and the latest preview of C++ is C++23. I would assume the next release of C++ to be within the next 3 to 4 years from
+        C++'s original release date. So, about 2024 or 2023.
+
+    d.) What motivated Stroustroup to start working on this new C++ language?
+
+        He had been using Simula and that it had features that were very helpful  for large software development, but the language itself was too slow
+        and impractical for use. C was chosen as the basis for C++ development because it was general purpose, fast, portable and widely used.
+
+    e.) Why did he call it C++?
+
+        The name comes from C++'s own operator, being ++, which increments the value of a variable, and a common naming convention of using
+        + to indicate an enhanced computer program. The language had been named 'new C' and 'C with classes' before finally
+        becoming C++.
+
+    f.) The Wikipedia page lists about 11 principles/philosophy behind C++. Comment on one or more of these principles, whether you have experienced them in C++ or with other programming languages, 
+        and what your opinion about that principle is.
+
+        I like that there should be no language beneath C++ with given the exception to assembly language. This is great as you can make very efficient code with C++ as its a low level language.
+        Every feature should be implementable. With this idea, it allows C++ to be extremely flexible in terms of what C++ is limited to.
+
+    g.) Look at some of the criticism of C++. Comment on one or more of these criticisms based on your experience/expectations.
+
+        With my current knowledge of C++, C++ does have a lot of excessive code that other languages can cut shorter.
+        It's lacking in terms of garbage collection and the errors that C++ can throw at you can be rather vague and long
+        A new up and coming language that seems interesting is Rust. Which is basically C++, however
+        with better safety standard which I can agree with. However C++ still has the better performance.
+
+    e.) Please add anything more about C++, or about computer programming in general, that you would like to share.
+
+        The reason why C++ is so successful is how it is able to implement many different programming styles.
+    
+    Karsyn Hutchinson:
+
+    Ivory Scherphorn:
+
+Individual Comments:
+
+    Chase Condron: 
+    With Q2 I had no trouble getting all positive values, however once I tried to enter negative values is where I got into issues. I thought I could solve this simply by giving currSecLargest = x-1;
+    However, this results in a bug that I didn't see. Eventually I got to the solution of storing the first two inputs before the loop begins, thanks to help from the professor.
+
+    Karsyn Hutchinson:
+
+    Ivory Scherphorn:
+
+Confidence Level:
+
+    Chase Condron: 
+    Q2 - 9/10 
+    Q3 - 10/10
+
+    Karsyn Hutchinson:
+
+    Ivory Scherphorn:
