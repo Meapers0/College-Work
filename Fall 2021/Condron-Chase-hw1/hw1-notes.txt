@@ -1,7 +1,0 @@
-HW1 Notes: 
-
-Problems Encountered: I didn't encounter any issues with writing the code, but navigating around VisualStudio for the files was a little tricky
-and took some effort on my part.
-
-Confidence level - 10 throughout all the questions.
-

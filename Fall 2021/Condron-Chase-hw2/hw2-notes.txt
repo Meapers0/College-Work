@@ -1,9 +1,0 @@
-HW2 Notes:
-
-Problems Encountered: I didn't encounter any issues with writing the code. 
-I've switched over to VScode from Visual studio, and I find the lightweight 
-enviroment to be easier to work with.
-
-Confidence level - 10 throughout all the questions. My only question is that I am assuming
-that you would like us to not use loops yet, and I couldn't figure out a more efficent
-way to get the lowest and highest value from question 1 without including loops.

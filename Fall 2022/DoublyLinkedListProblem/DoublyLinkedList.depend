@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1574758345 source:c:\users\mmani\desktop\courses\umich\csc375\csc375f19\hws\doublylinkedlistproblem\main.cpp
-	<iostream>
-	<string>
-	"DoublyLinkedList.h"
-
-1574758810 c:\users\mmani\desktop\courses\umich\csc375\csc375f19\hws\doublylinkedlistproblem\doublylinkedlist.h
-

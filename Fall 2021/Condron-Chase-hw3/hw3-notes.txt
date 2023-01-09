@@ -1,7 +1,0 @@
-HW3 Notes:
-
-Problems Encountered: I didn't encounter any issues with the code. This
-assignment felt pretty straight forward, I'm sure there is perhaps a more
-efficent way for q3 using lists or arrays, however we aren't there yet.
-
-Confidence level - 10 throughout.
